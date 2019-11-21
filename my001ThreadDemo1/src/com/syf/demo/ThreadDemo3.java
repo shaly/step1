@@ -2,7 +2,11 @@ package com.syf.demo;
 
 import java.util.Iterator;
  
-
+/**
+ * 2.实现Runnable接口
+ * @author Jane
+ *
+ */
 class CreateThread3 implements Runnable{
 	/**
 	 * run方法执行  需要线程执行的任务  代码
