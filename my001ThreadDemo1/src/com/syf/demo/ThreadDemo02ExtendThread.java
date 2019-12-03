@@ -22,7 +22,7 @@ class CreateThread extends Thread{
 	
 }
 
-public class ThreadDemo2 {
+public class ThreadDemo02ExtendThread {
 	public static void main(String[] args) {
 		System.out.println("创建线程开始");
 		//1.定义一个类，继承Thread类 重写run方法

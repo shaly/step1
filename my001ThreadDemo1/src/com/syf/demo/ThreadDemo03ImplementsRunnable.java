@@ -19,7 +19,7 @@ class CreateThread3 implements Runnable{
 	}
 	
 }
-public class ThreadDemo3 {
+public class ThreadDemo03ImplementsRunnable {
 	public static void main(String[] args) {
 		System.out.println("创建线程开始");
 		//1.定义一个类，实现Runnable接口，重写run方法

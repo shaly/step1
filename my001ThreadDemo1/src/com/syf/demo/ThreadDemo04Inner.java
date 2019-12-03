@@ -5,7 +5,7 @@ package com.syf.demo;
   * @author Jane
   *
   */
-public class ThreadDemo4 {
+public class ThreadDemo04Inner {
 	public static void main(String[] args) {
 		System.out.println("创建线程开始");
 //		//1.使用匿名内部类方式创建线程【方式1：标准格式】
