@@ -31,6 +31,8 @@ public class ThreadDemo4 {
 			}
 			
 		}).start();
+		
+		//2.调用
 		for (int i=0;i<200;i++) {
 			System.out.print("{main}i="+i);
 		}
